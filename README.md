@@ -34,14 +34,20 @@ List active appointments between a date range, sorted by date in descending orde
 Admin Dashboard to manage Patients, Counselors, and Appointments with search capabilities.
 
 # Setup & Installation
+**Clone the repository**:
+```bash
 git clone repo_url
-
+```
+```bash
 cd healthapp
-
+```
+```bash
 pip install -r requirements.txt
-
+```
+```bash
 python manage.py migrate
-
+```
+```bash
 git clone repo url
-
+```
 
