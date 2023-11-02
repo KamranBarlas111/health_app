@@ -35,9 +35,13 @@ Admin Dashboard to manage Patients, Counselors, and Appointments with search cap
 
 # Setup & Installation
 git clone repo_url
+
 cd healthapp
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 git clone repo url
 
 
